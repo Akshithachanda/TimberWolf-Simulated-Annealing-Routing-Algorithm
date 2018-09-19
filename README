@@ -1,0 +1,7 @@
+How to compile
+
+ gcc Timberwolf.c
+ ./a.out
+
+
+ // Respective partition files along with input files in each folder
